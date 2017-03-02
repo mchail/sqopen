@@ -1,10 +1,9 @@
 {
   "name": "sqopen",
   "main": "./lib/sqopen",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Open files in sq-stash at the current commit sha",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "sqopen:openInStash"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
