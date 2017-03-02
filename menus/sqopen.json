@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open in stash",
+        "command": "sqopen:openInStash"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sqopen",
+          "submenu": [
+            {
+              "label": "Open in stash",
+              "command": "sqopen:openInStash"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
