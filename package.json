@@ -1,7 +1,7 @@
 {
   "name": "sqopen",
   "main": "./lib/sqopen",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Open files in sq-stash at the current commit sha",
   "keywords": [],
   "activationCommands": {
